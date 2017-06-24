@@ -18,7 +18,7 @@ define('_AFFILIATE_KEYS', 'Schlüsseländerung');
 
 // ACCOUNT
 define('_SIGN_OUT', 'abmelden');
-define('_WELCOME', 'Wilkommen,'); //eg Welcome, Username.
+define('_WELCOME', 'Willkommen,'); //eg Welcome, Username.
 
 // SUPPORT
 define('_SUPPORT', 'zusätzlich können Sie mit uns durch Twitter oder publicdbhost@gmail.com Kontakt aufnehmen');
@@ -29,7 +29,7 @@ define('_MONDAY_FRIDAY', 'Montag bist Freitag.');
 define('_P_OVERVIEW', 'Leistungsübersicht');
 define('_AVG_QUERY', 'durchschnittliche Abfrage');
 define('_AVG_RESULTS', 'durchschnittliches Suchergebnis');
-define('_ACC_NUMBER', 'Konto Nummer');
+define('_ACC_NUMBER', 'Kontonummer');
 define('_API_LOAD', 'API Load');
 define('_SHORT_TERM', 'kurzfristige Ziele');
 define('_LONG_TERM', 'langfristige Ziele');
