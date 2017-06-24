@@ -21,7 +21,7 @@ define('_SIGN_OUT', 'abmelden');
 define('_WELCOME', 'Willkommen,'); //eg Welcome, Username.
 
 // SUPPORT
-define('_SUPPORT', 'zusätzlich können Sie mit uns durch Twitter oder publicdbhost@gmail.com Kontakt aufnehmen');
+define('_SUPPORT', 'zusätzlich können Sie mit uns durch Twitter oder publicdbhost@gmail.com Kontakt aufnehmen.');
 define('_MOST_ACTIVE', 'unser Support ist verfügbar während dieser Zeiten');
 define('_MONDAY_FRIDAY', 'Montag bist Freitag.');
 
