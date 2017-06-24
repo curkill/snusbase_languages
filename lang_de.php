@@ -29,7 +29,7 @@ define('_MONDAY_FRIDAY', 'Montag bist Freitag.');
 define('_P_OVERVIEW', 'Leistungsübersicht');
 define('_AVG_QUERY', 'durchschnittliche Abfrage');
 define('_AVG_RESULTS', 'durchschnittliches Suchergebnis');
-define('_ACC_NUMBER', 'Kontonummer');
+define('_ACC_NUMBER', 'Anzahl der Benutzer');
 define('_API_LOAD', 'API Load');
 define('_SHORT_TERM', 'kurzfristige Ziele');
 define('_LONG_TERM', 'langfristige Ziele');
